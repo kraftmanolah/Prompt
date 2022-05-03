@@ -1,0 +1,24 @@
+.horiz-line {
+  margin: 0% 0% 0% 0%;
+}
+.back-img {
+  background-size: cover;
+  min-height: 60vh;
+}
+/*
+.works {
+  color: white;
+}
+*/
+
+.prags {
+  font-size: 3rem;
+}
+.back-cols {
+  background-color: rgb(238, 238, 238);
+  height: 40vh;
+}
+.workie {
+  background-color: rgb(255, 255, 255, 0.6);
+  border-radius: 2%;
+}
